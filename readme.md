@@ -60,4 +60,4 @@ Feedback e Visualização:
 O estado do sistema e os valores de corrente são enviados para o broker e podem ser visualizados em tempo real na interface da plataforma.
 
 ## Vídeo demonstrando o funcionamento
-https://youtu.be/ySbO7Xlv9Cg
+https://youtu.be/UfLT7vVots8
